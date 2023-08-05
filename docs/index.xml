@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOSS Wiki</title>
-    <link>https://gvenkatagiri.github.io/</link>
+    <link>https://gvenkatagiri.github.io/foss_pages/</link>
     <description>Recent content on FOSS Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Gaurav Venkatagiri</copyright>
-    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gvenkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gvenkatagiri.github.io/foss_pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FOSS Wiki - My Learnings</title>
-      <link>https://gvenkatagiri.github.io/posts/info/</link>
+      <link>https://gvenkatagiri.github.io/foss_pages/posts/info/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gvenkatagiri.github.io/posts/info/</guid>
+      <guid>https://gvenkatagiri.github.io/foss_pages/posts/info/</guid>
       <description>HELLO WORLD</description>
     </item>
     
